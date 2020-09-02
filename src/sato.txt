@@ -1,1 +1,2 @@
 #1 origin -> commit
+#2 ブランチ「sato_退会画面」作成
